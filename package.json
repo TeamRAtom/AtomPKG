@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "sourcefetch:fetch"
+    "atom-workspace": ["sourcefetch:easy", "sourcefetch:medium", "sourcefetch:hard"]
   },
   "repository": "https://github.com/atom/sourcefetch",
   "license": "MIT",

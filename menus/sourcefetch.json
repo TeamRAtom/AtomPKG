@@ -15,9 +15,17 @@
           "label": "sourcefetch",
           "submenu": [
             {
-              "label": "Fetch code",
-              "command": "sourcefetch:fetch"
-            }
+              "label": "Easy",
+              "command": "sourcefetch:easy"
+          },
+          {
+            "label": "Medium",
+            "command": "sourcefetch:medium"
+          },
+          {
+            "label": "Hard",
+            "command": "sourcefetch:hard"
+          }
           ]
         }
       ]
